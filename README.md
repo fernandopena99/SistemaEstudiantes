@@ -1,4 +1,5 @@
 Características
+
 La aplicación ofrece las siguientes funcionalidades a través de un menú interactivo:
 
 Listar estudiantes: Muestra todos los estudiantes registrados en la base de datos.
@@ -11,7 +12,9 @@ Modificar estudiante: Permite actualizar la información de un estudiante existe
 
 Eliminar estudiante: Permite eliminar un estudiante de la base de datos.
 
+-----------------------------------------
 Requisitos
+
 Para compilar y ejecutar este proyecto, necesitas lo siguiente:
 
 Java Development Kit (JDK): Versión 11 o superior.
@@ -53,6 +56,8 @@ public static Connection getConexion(){
     var password = "tu_contraseña";
     // ...
 }
+
+--------------------------------
 Cómo Ejecutar la Aplicación
 Clona este repositorio o descarga los archivos de código fuente.
 
