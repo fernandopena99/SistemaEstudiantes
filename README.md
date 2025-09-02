@@ -59,6 +59,7 @@ public static Connection getConexion(){
 
 --------------------------------
 Cómo Ejecutar la Aplicación
+
 Clona este repositorio o descarga los archivos de código fuente.
 
 Asegúrate de tener el driver MySQL Connector/J en tu classpath. Si usas un IDE como IntelliJ IDEA o Eclipse, puedes agregarlo fácilmente a las dependencias del proyecto.
